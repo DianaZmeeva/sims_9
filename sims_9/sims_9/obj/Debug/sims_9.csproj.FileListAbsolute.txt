@@ -1,0 +1,10 @@
+c:\users\111\source\repos\sims_9\sims_9\bin\Debug\sims_9.exe.config
+c:\users\111\source\repos\sims_9\sims_9\bin\Debug\sims_9.exe
+c:\users\111\source\repos\sims_9\sims_9\bin\Debug\sims_9.pdb
+c:\users\111\source\repos\sims_9\sims_9\obj\Debug\sims_9.csprojResolveAssemblyReference.cache
+c:\users\111\source\repos\sims_9\sims_9\obj\Debug\sims_9.Form1.resources
+c:\users\111\source\repos\sims_9\sims_9\obj\Debug\sims_9.Properties.Resources.resources
+c:\users\111\source\repos\sims_9\sims_9\obj\Debug\sims_9.csproj.GenerateResource.Cache
+c:\users\111\source\repos\sims_9\sims_9\obj\Debug\sims_9.csproj.CoreCompileInputs.cache
+c:\users\111\source\repos\sims_9\sims_9\obj\Debug\sims_9.exe
+c:\users\111\source\repos\sims_9\sims_9\obj\Debug\sims_9.pdb
